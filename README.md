@@ -1,6 +1,6 @@
 ## ExpNo 5 : Implement Minimax Search Algorithm for a Simple TIC-TAC-TOE game
-## Name: ASWIKA B
-## Register Id: 212224220013
+## Name: MONISHKUMAR V
+## Register Id: 212223040116
 ## Aim:
 Implement Minimax Search Algorithm for a Simple TIC-TAC-TOE game
 
